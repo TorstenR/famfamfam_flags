@@ -117,7 +117,7 @@
 .famfamfam-flag-mt { background-position: -128px -66px; width: 16px; height: 11px; }
 .famfamfam-flag-ms { background-position: -128px -77px; width: 16px; height: 11px; }
 .famfamfam-flag-mr { background-position: -128px -88px; width: 16px; height: 11px; }
-.famfamfam-flag-mq { background-position: -128px -99px; width: 16px; height: 11px; }
+.famfamfam-flag-mq { background-position: -176px -44px; width: 16px; height: 11px; }
 .famfamfam-flag-mp { background-position: -128px -110px; width: 16px; height: 11px; }
 .famfamfam-flag-mo { background-position: 0px -121px; width: 16px; height: 11px; }
 .famfamfam-flag-mn { background-position: -16px -121px; width: 16px; height: 11px; }
@@ -178,7 +178,7 @@
 .famfamfam-flag-gs { background-position: -16px -155px; width: 16px; height: 11px; }
 .famfamfam-flag-gr { background-position: -32px -155px; width: 16px; height: 11px; }
 .famfamfam-flag-gq { background-position: -48px -155px; width: 16px; height: 11px; }
-.famfamfam-flag-gp { background-position: -64px -155px; width: 16px; height: 11px; }
+.famfamfam-flag-gp { background-position: -176px -44px; width: 16px; height: 11px; }
 .famfamfam-flag-gn { background-position: -80px -155px; width: 16px; height: 11px; }
 .famfamfam-flag-gm { background-position: -96px -155px; width: 16px; height: 11px; }
 .famfamfam-flag-gl { background-position: -112px -155px; width: 16px; height: 11px; }
@@ -222,6 +222,7 @@
 .famfamfam-flag-cv { background-position: -48px -177px; width: 16px; height: 11px; }
 .famfamfam-flag-cu { background-position: -64px -177px; width: 16px; height: 11px; }
 .famfamfam-flag-cs { background-position: -80px -177px; width: 16px; height: 11px; }
+.famfamfam-flag-yu { background-position: -80px -177px; width: 16px; height: 11px; }
 .famfamfam-flag-cr { background-position: -96px -177px; width: 16px; height: 11px; }
 .famfamfam-flag-co { background-position: -112px -177px; width: 16px; height: 11px; }
 .famfamfam-flag-cn { background-position: -128px -177px; width: 16px; height: 11px; }
@@ -273,3 +274,7 @@
 .famfamfam-flag-ad { background-position: -208px -121px; width: 16px; height: 11px; }
 .famfamfam-flag-np { background-position: -208px -132px; width: 9px; height: 11px; }
 .famfamfam-flag-ch { background-position: -208px -143px; width: 11px; height: 11px; }
+.famfamfam-flag-nn { background-position: -208px -154px; width: 16px; height: 11px; }
+.famfamfam-flag-su { background-position: -208px -154px; width: 16px; height: 11px; }
+.famfamfam-flag-dd { background-position: -208px -154px; width: 16px; height: 11px; }
+.famfamfam-flag-zr { background-position: -208px -154px; width: 16px; height: 11px; }
